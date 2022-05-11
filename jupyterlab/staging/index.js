@@ -6,7 +6,7 @@
 
 import { PageConfig } from '@jupyterlab/coreutils';
 
-import './style.js';
+import './style.jsx';
 
 async function createModule(scope, module) {
   try {
