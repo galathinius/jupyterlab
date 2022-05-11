@@ -2,6 +2,8 @@
 .dockerignore
 Dockerfile
 
+test.csv
+
 # project files
 coverage/
 
